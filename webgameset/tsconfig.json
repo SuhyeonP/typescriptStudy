@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "strict": true,
+    "strictNullChecks": true,
     "lib": ["es2020", "dom"]
   },
   "exclude": ["*.js"]

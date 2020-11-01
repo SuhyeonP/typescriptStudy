@@ -64,4 +64,5 @@ function intervalMaker() {
         }
     }, 100);
 };
+
 intervalMaker();
