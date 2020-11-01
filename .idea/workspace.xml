@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604191041844</updated>
-      <workItem from="1604191042865" duration="7272000" />
+      <workItem from="1604191042865" duration="9704000" />
     </task>
     <servers />
   </component>
@@ -67,13 +67,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1368" y="161" key="#Plugins" timestamp="1604199571021">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="161" key="#Plugins/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604199571021" />
     <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604195623725">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604195623725" />
+    <state x="-1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604199589809">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604199589809" />
     <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604195862535">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604195862535" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604199553481">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604199553481" />
   </component>
 </project>
