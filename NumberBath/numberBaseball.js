@@ -10,7 +10,6 @@ function chooseNumber() {
     }
 }
 chooseNumber();
-console.log(array);
 var result = document.createElement('h1');
 result.textContent = '숫자야구~';
 body.append(result);
@@ -40,7 +39,6 @@ form.addEventListener('submit', function (e) {
         var strike = 0;
         var ball = 0;
         wrongCount += 1;
-        console.log(wrongCount);
         if (wrongCount > 9) {
             alert("10\uBC88 \uD2C0\uB838\uC2B5\uB2C8\uB2E4. \uB2F5\uC740" + array.join(''));
             var doornot = confirm('게임을 계속 진행하시겠습니까?');
@@ -50,7 +48,6 @@ form.addEventListener('submit', function (e) {
                 input.focus();
                 chooseNumber();
                 wrongCount = 0;
-                console.log(array);
             }
             else {
                 result.textContent = "\uAC8C\uC784\uC744 \uC9C4\uD589\uD558\uACE0\uC2F6\uB2E4\uBA74 \uC0C8\uB85C\uACE0\uCE68\uC744 \uD574\uC8FC\uC138\uC694";

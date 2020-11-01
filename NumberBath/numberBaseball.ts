@@ -12,7 +12,6 @@ function chooseNumber(){
 }
 
 chooseNumber();
-console.log(array);
 
 const result=document.createElement('h1');
 result.textContent='숫자야구~'
@@ -45,7 +44,6 @@ form.addEventListener('submit',(e)=>{
         let strike=0;
         let ball=0;
         wrongCount+=1;
-        console.log(wrongCount)
         if(wrongCount>9){
             alert(`10번 틀렸습니다. 답은${array.join('')}`)
             let doornot:boolean=confirm('게임을 계속 진행하시겠습니까?')
@@ -55,7 +53,6 @@ form.addEventListener('submit',(e)=>{
                 input.focus()
                 chooseNumber();
                 wrongCount=0;
-                console.log(array)
             }else {
                 result.textContent=`게임을 진행하고싶다면 새로고침을 해주세요`
             }
