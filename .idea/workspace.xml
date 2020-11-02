@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d50fa23-5678-4d90-a09f-441362edb8b0" name="Default Changelist" comment="" />
+    <list default="true" id="4d50fa23-5678-4d90-a09f-441362edb8b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webgameset/cardMatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webgameset/cardMatch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webgameset/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webgameset/tictactoe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webgameset/tictactoe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webgameset/tshastone.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webgameset/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/webgameset/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +37,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="TypeScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -54,7 +84,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604191041844</updated>
-      <workItem from="1604191042865" duration="28561000" />
+      <workItem from="1604191042865" duration="29984000" />
+      <workItem from="1604229178459" duration="2406000" />
+      <workItem from="1604271000416" duration="10881000" />
     </task>
     <servers />
   </component>
@@ -66,8 +98,23 @@
         <option value="$PROJECT_DIR$/NumberBath/numberBaseball.js" />
         <option value="$PROJECT_DIR$/webgameset/rsp.js" />
         <option value="$PROJECT_DIR$/webgameset/jsStone.js" />
+        <option value="$PROJECT_DIR$/webgameset/tshastone.js" />
+        <option value="$PROJECT_DIR$/webgameset/cardMatch.js" />
+        <option value="$PROJECT_DIR$/webgameset/tictactoe.js" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="161" key="#Plugins" timestamp="1604199571021">
@@ -86,10 +133,18 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1155" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604220589133" />
-    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604195862535">
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604238343185">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604195862535" />
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604238343185" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1604230860459">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604230860459" />
+    <state x="-1093" y="221" key="RollbackChangesDialog" timestamp="1604230869407">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1093" y="221" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604230869407" />
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604199553481">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
